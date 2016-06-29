@@ -1,5 +1,3 @@
-**Week 2**
-
 Recent History of Terrorism
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

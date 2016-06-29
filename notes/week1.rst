@@ -1,5 +1,3 @@
-**Week 1**
-
 Some facts and figures
 ~~~~~~~~~~~~~~~~~~~~~~
 
@@ -207,6 +205,44 @@ These 12 key components, it should:
 10. refer to the **intent** of acts of terrorism
 11. contain the motivations to **engage** in terrorism
 12. mention that terrorist acts form part of a **campaign** of violence
+
+
+Essence of terrorism
+~~~~~~~~~~~~~~~~~~~~
+
+- Agreement: many different elements
+- Instrument or tactic to achieve certain goals
+- Use of force is not its goal (or expressive terrorism, the violence itself is both method and goal)
+- Fear os key component, spreading fear more important than spreading fear
+
+
+High levels of fear in Netherlands, a country that does not experience a lot of terrorism. What happened:
+
+- 2006, killing of Theo van Gogh
+- 40% believed terrorism to be among most important problems
+- one attack, one person, one victim
+- a lot of fear from single action
+
+
+Main target
+-----------
+
+Brian Jenkins 1975: "Terorists want a lot of people watching and not a lot of people dead"
+
+Direct target are rarely the main target, it's more about the message to you and me.
+
+
+
+The impact
+----------
+
+- Kill a few, scare a million. We should try not to over-react.
+- Media, politicians and other public figures play an important role
+- Impact can sometimes be enormous
+  - on society and relations between communities
+  - on the economy
+
+
 
 
 
