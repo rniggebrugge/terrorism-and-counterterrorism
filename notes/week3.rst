@@ -115,6 +115,95 @@ Myth
 - indirect link: hard to prove
 
 
+
+Second Assumption: Terrorists are crazy
+---------------------------------------
+
+
+Logic behind it is simple. 
+
+- How can a sane person commit ats of terrorism?
+- Difficult to understand the person
+- Especially with suicide attacks
+- He/she must be insane
+
+
+Terrorists are crazy:
+
+- Acts evoke moral outrage, making it difficult to form an objective judgment
+- Comparison to mass murders and school shooters
+- Difference:
+	- Political motivation
+	- Rationality -> not crazy, irrational
+- Understanding does not mean condoning
+- Crazy/sane are subjective concepts
+
+But though it is difficult to understand how and why terrorists come to their deeds, they are mostly 'normal' people.
+
+Why is it important to answer the question.
+
+- implications for counterterrorism
+- more cooperation with actors in mental healthcare
+- little we can do
+- why investigate motivations and rationale if they are crazy?
+
+
+Academic evidence
+^^^^^^^^^^^^^^^^^
+
+- Terrorism is a rational behaviour making terrorists rational actors that kill to achieve certain political goals
+- (Socio-)psychological approach: more or less consensus that they are not crazy
+- *Jerrold Post*: "..., terrorist groups and organizations regularly weed out emotionally unstable individuals. They represent, after all, a security risk."
+- *Louise Richardson*: "There is no particular terrorist personality"
+- *Ehud Sprinzak*: "rational fanatics"
+
+
+But from the other side:
+
+- this does not mean no terrorist is clinically psychotic
+- personality disturbances might be more frequent
+- difficulty diagnosing terrorists, they are not available!
+
+
+
+Conclusion
+^^^^^^^^^^
+
+The assumption that Terrorists are crazy is **false**.
+
+
+
+Third Assumption: Terrorism is increasingly lethal
+--------------------------------------------------
+
+Two interpretation:
+
+- more fatalities in general
+- more fatalities per attack
+
+
+Origin of clain:
+
+- terrorism is defining feature of our age
+- post 9/11 world
+- terrorism is regarded as a very big threat
+
+
+Politicians and scholars supporting the assumption:
+
+- **Dick Cheney**: biological agents, nuclear weapon, chemical weapon, all possible weapons
+- Australian Department of Foreign Affairs and Trade: weapons at the terrorists' disposal is wide and increasing
+- **Peter Neumann** (scholar): in the era of the new terrorism the two considerations - violence and symbolic value - seem to have merged, with mass-casualty attacks against civilian population being routine and intentional...
+
+
+
+
+
+
+
+
+
+
  
 
 
