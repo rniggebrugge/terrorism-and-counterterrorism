@@ -23,3 +23,13 @@ Week 2 - History of Terrorism Studies, disciplines & approaches, and key authors
 
 
 .. include:: week2.rst
+
+
+
+
+
+Week 3 - 5 Assumption on Terrorism
+==================================
+
+
+.. include:: week3.rst
